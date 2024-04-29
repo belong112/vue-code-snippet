@@ -1,0 +1,23 @@
+{
+  "name": "kerrytjfrontendsnippets",
+  "displayName": "KerryTJ-frontend-template",
+  "description": "extension that helps develop starting a vue file",
+  "version": "1.0.2",
+  "publisher": "t192829",
+  "icon": "favicon.ico",
+  "pricing": "Free",
+  "engines": {
+    "vscode": "^1.86.0"
+  },
+  "categories": [
+    "Snippets"
+  ],
+  "contributes": {
+    "snippets": [
+      {
+        "language": "vue",
+        "path": "./snippets/snippets.code-snippets"
+      }
+    ]
+  }
+}
