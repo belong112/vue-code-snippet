@@ -6,6 +6,9 @@ Helping developer starting a new vue file, when typing "_vue_" in your code edit
 
 這是一個協助開發者快速開啟一個 vue file 的 snippet, 當你在 vscode 輸入 "_vue_" 並點選, 就會自動生成 vue file 的模板
 
+![img](https://i.imgur.com/J6iuDyI.png)
+![img](https://i.imgur.com/eSmcEat.png)
+
 **Enjoy!**
 
 ## Release Notes
