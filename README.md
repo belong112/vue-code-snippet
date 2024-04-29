@@ -24,3 +24,7 @@ Initial release
 ### 1.0.2
 
 新增 icon, 增加範本內容
+
+### 1.0.3
+
+readme 新增範例圖片
